@@ -1,0 +1,11 @@
+# Llaves y credenciales — NUNCA subir a un repositorio
+*.pem
+*.key
+.env
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+
+# Dependencias del prototipo en Node
+node_modules/

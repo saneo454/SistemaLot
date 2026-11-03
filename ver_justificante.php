@@ -1,0 +1,1 @@
+<?php require_once "header.php"; ?><html><body>Ver Justificante</body></html>
